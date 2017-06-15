@@ -1,0 +1,1 @@
+double agm(double, double, double);

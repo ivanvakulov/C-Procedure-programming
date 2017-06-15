@@ -1,0 +1,1 @@
+double Power(double, unsigned int);
